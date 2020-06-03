@@ -8,4 +8,4 @@ def fib(n):
         b = total
 
 for x in fib(10):
-    print(x)
+    print(x)    
